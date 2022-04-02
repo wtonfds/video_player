@@ -4,7 +4,7 @@ Teste prático
 
 ## Getting Started
 
-Este projeto foi desenvolvido usando flutter para frontend, mobx para gencia dos estados, flutter modular como injetor de dependencias e rotas.
+Este projeto foi desenvolvido usando flutter para frontend, mobx para gerência dos estados, flutter modular como injetor de dependencias e rotas.
 
 Também foi usado flutter_test para criação dos testes unitários.
 
