@@ -1,16 +1,11 @@
 # seventh_player
 
-A new Flutter project.
+Teste prático
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto foi desenvolvido usando flutter para frontend, mobx para gerência dos estados, flutter modular como injetor de dependencias e rotas.
 
-A few resources to get you started if this is your first Flutter project:
+Também foi usado flutter_test para criação dos testes unitários.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para estruturação do projeto foi usado Clean Architecture usando os principios do SOLID
