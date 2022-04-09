@@ -1,7 +1,6 @@
 import 'dart:convert';
 
 import 'package:dartz/dartz.dart';
-import 'package:dio/dio.dart';
 import 'package:seventh_player/cores/errors.dart';
 import 'package:seventh_player/cores/message.dart';
 import 'package:seventh_player/features/login/data/datasources/login_datasource.dart';
